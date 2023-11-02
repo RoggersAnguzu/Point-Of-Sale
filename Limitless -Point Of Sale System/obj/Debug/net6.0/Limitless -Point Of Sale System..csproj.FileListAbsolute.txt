@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\bin\Debug\net6.0\Limitless -Point Of Sale System..exe
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\bin\Debug\net6.0\Limitless -Point Of Sale System..deps.json
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\bin\Debug\net6.0\Limitless -Point Of Sale System..runtimeconfig.json
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\bin\Debug\net6.0\Limitless -Point Of Sale System..dll
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\bin\Debug\net6.0\Limitless -Point Of Sale System..pdb
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..AssemblyInfo.cs
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..dll
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\refint\Limitless -Point Of Sale System..dll
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..pdb
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\Limitless -Point Of Sale System..genruntimeconfig.cache
+C:\Users\Admin\source\repos\Limitless -Point Of Sale System\Limitless -Point Of Sale System\obj\Debug\net6.0\ref\Limitless -Point Of Sale System..dll
